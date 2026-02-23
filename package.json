@@ -1,7 +1,7 @@
 {
-    "name": "@yumenative/baileys",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "name": "@rulzzofficial/baileys",
+    "version": "3.5.5",
+    "description": "API WhatsApp Modified by Rulzz OfficiaL",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -9,8 +9,7 @@
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
-        "botwa",
-        "stvnnvs"
+        "botwa"
     ],
     "homepage": "https://www.npmjs.com/package/@stvnnvs/baileys",
     "repository": {
